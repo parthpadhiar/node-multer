@@ -15,4 +15,4 @@
 ##    |-routes
 ## &nbsp;&nbsp;&nbsp;&nbsp;     |-- model.js files
 ##    |-index.js
-then refer [git@github.com:parthpadhiar/node-express-app.git](https://git@github.com:parthpadhiar/node-express-app.git)
+then refer [https://github.com/parthpadhiar/node-express-app](https://github.com/parthpadhiar/node-express-app)
